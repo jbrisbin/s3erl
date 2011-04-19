@@ -1,0 +1,7 @@
+{application, s3erl,
+ [{description, "Erlang S3 Bindings"},
+  {vsn, "0.1"},
+  {modules, []},
+  {registered, []},
+  {applications, [kernel, stdlib]}
+]}.
